@@ -162,7 +162,7 @@
 		"typed-query-selector": "^2.12.0",
 		"typescript": "^5.7.3",
 		"unplugin-lightningcss": "^0.2.1",
-		"vitest": "^3.0.3"
+		"vitest": "^3.1.1"
 	},
 	"engines": {
 		"node": ">= 20",
